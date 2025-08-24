@@ -1,0 +1,14 @@
+{
+  "name": "prashant_pote_api_automation",
+  "version": "1.0.0",
+  "description": "Above Repository for API Automation I written the code for myself for future",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.0"
+  }
+}
